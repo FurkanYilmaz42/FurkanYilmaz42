@@ -15,7 +15,7 @@ Instead of saying, *"I wish this website was designed differently..."* or *"Why 
 - ✨ My competitive spirit and energy often **inspire those around me**  
 
 ## 🛠️ Technologies  
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Frontend:** HTML, CSS, JavaScript, React,  Bootstrap
 - **Backend:** Node.js
 - **Mobile**: React Native
 - **Tools:** Git, GitHub, VS Code  
