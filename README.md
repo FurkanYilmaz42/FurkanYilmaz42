@@ -28,8 +28,8 @@ Instead of saying, *"I wish this website was designed differently..."* or *"Why 
 
 ## 📫 Get in Touch  
 -<a href="https://www.github.com/FurkanYilmaz42"> Github </a>
-- GitHub: [github.com/FurkanYilmaz42](https://github.com/FurkanYilmaz42)  
-- LinkedIn: https://www.linkedin.com/in/furkan-yilmaz-281a1020a/
+-<a href="https://www.linkedin.com/in/furkan-yilmaz-281a1020a/"> Linkedin </a>
+
 - Email: furyil0101@gmail.com
 
 🚀 Excited to build new projects and grow together!  
