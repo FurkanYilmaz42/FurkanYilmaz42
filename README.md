@@ -29,7 +29,7 @@ Instead of saying, *"I wish this website was designed differently..."* or *"Why 
 ## 📫 Get in Touch  
 - <a href="https://www.github.com/FurkanYilmaz42"> Github </a>
 - <a href="https://www.linkedin.com/in/furkan-yilmaz-281a1020a/"> Linkedin </a>
-- [GITHUB]([https://ornek-site.com](https://www.github.com/FurkanYilmaz42)
+- [GITHUB](https://www.github.com/FurkanYilmaz42)
 
 - Email: furyil0101@gmail.com
 
