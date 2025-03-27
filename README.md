@@ -27,7 +27,7 @@ Instead of saying, *"I wish this website was designed differently..."* or *"Why 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hntstm.fy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/furkan-yilmaz-281a1020a/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Hntstm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furyil0101@gmail.com) 
 
 ## 📫 Get in Touch  
--<a href="www.github.com/FurkanYilmaz42"> Github </a>
+-<a href="[www.github.com/FurkanYilmaz42](https://github.com/FurkanYilmaz42)"> Github </a>
 - GitHub: [github.com/FurkanYilmaz42](https://github.com/FurkanYilmaz42)  
 - LinkedIn: https://www.linkedin.com/in/furkan-yilmaz-281a1020a/
 - Email: furyil0101@gmail.com
